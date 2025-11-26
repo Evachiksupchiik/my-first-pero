@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 \# Простий калькулятор
 
 Навчальний проєкт для вивчення Git та Python.
@@ -27,6 +28,10 @@ python calculator.py
 
 \[Ваше ім'я та група]
 
+=======
+# my-first-pero
+My first repository for learning Git
+>>>>>>> ccd3405fa811faba16dbe9d353227ba5bfc6d9f7
 =======
 # my-first-pero
 My first repository for learning Git
