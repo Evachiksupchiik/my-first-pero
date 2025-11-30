@@ -63,3 +63,4 @@ while True:
 
     except ValueError:
         print("Помилка: введіть коректні числа!")
+#ignore it
